@@ -13,7 +13,7 @@ Instrucciones:
 
 2.- Crear y configurar el archivo .env
 
-3.- Estar en la ruta /Backend
+3.- Ubicarse en la ruta /Backend (cd Backend)
 
 4.- Ejecutar el comando npm install
 
