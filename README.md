@@ -9,6 +9,8 @@ Materia: FrontEnd I
 
 Instrucciones:
 
+Descargar el repositorio FrontEnd-MapArt y pegar la carpeta Frontend en MapArt (https://github.com/JMCA2805/FrontEnd-MapArt.git)
+
 1.- Crear la base de datos e insertar las tablas (Backend/Db/mapart.sql)
 
 2.- Crear y configurar el archivo .env
