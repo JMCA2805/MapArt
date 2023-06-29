@@ -1,5 +1,5 @@
 # MapArt
-Actividad 3.1 Front End I
+Actividad 3.2 Front End I
 
 Jose Mauricio Camacho Angarita
 
@@ -9,7 +9,7 @@ Materia: FrontEnd I
 
 Instrucciones:
 
-Descargar el repositorio FrontEnd-MapArt y pegar la carpeta Frontend en MapArt (https://github.com/JMCA2805/FrontEnd-MapArt.git)
+Descargar el repositorio FrontEnd-MapArt main-v2.0 y pegar la carpeta Frontend en MapArt (https://github.com/JMCA2805/FrontEnd-MapArt.git)
 
 1.- Crear la base de datos e insertar las tablas (Backend/Db/mapart.sql)
 
