@@ -17,7 +17,6 @@ class login {
                
                 if (error) throw error
 
-
                 if (results != "") {
                     //Extrayendo el resultado de la Query
                     let hash = results[0].password;
@@ -27,7 +26,7 @@ class login {
 
                         if (result) {
                             //Creando token
-                            jwt.sign({ roles: ["User"], usuario: user }, process.env.secreto, {}, function (err, token) {
+                            jwt.sign({ roles: "User", usuario: user }, process.env.secreto, {}, function (err, token) {
 
                                 console.log('Usuario y contraseña correctos');
                                 resolve(token);
